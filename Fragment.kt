@@ -23,3 +23,4 @@ Private fun replaceFragmentWithFragment(frag: Fragment){
  fragTransaction.commit()
 
 }
+https://www.geeksforgeeks.org/android-projects-from-basic-to-advanced-level/
